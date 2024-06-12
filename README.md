@@ -15,7 +15,8 @@
 </ul>
 
 # Proje Bağlantı Linki
-https://emartech-building.netlify.app/
+https://udemg-courses.netlify.app/
 
 #  Udemig-Courses-11-hs-Proje Gifi
-![download](https://github.com/mehmet-adgzl22/emartech-building/assets/169144147/d32c3db0-27a2-4fb2-aa6e-28761b73abb2)
+![udemig-gif](https://github.com/mehmet-adgzl22/udemig-courses-11-hs/assets/169144147/34180648-357f-4896-93f1-d3f0250ee10a)
+
