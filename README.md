@@ -1,6 +1,6 @@
 # Udemig-Courses-11-hs-Proje Özellikleri
 <ul>
-  <li>Bu projemizde bootstrap kullanılarak konut satış siteleri kullanışlı arayüz ile yapılmıştır.</li>
+  <li>Bu projede bootstrap kullanılarak güzel bir arayüz elde edilmiştir.Full responsive olan bu projemizde hem bootstrap hemde kendi css kodlarımız kullanılmıştır.</li>
 </ul>
 
 # Projede Kullanılan Diller ve Araçlar
