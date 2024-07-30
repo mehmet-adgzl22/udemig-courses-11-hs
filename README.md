@@ -15,7 +15,7 @@
 </ul>
 
 # Proje Bağlantı Linki
-https://udemg-courses.netlify.app/
+https://udemig-courses-hs11.netlify.app/
 
 #  Udemig-Courses-11-hs-Proje Gifi
 ![udemig-gif](https://github.com/mehmet-adgzl22/udemig-courses-11-hs/assets/169144147/34180648-357f-4896-93f1-d3f0250ee10a)
